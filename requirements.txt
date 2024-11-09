@@ -1,0 +1,11 @@
+gradio
+edge-tts
+numpy
+soxr
+pydub
+torch
+sentencepiece
+onnxruntime
+huggingface-hub
+python-dotenv
+asyncio
